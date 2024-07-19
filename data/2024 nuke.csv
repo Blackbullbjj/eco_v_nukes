@@ -1,0 +1,10 @@
+﻿Country,Deployed Nonstrategic,Deployed Strategic,Reserve/ Nondeployed,Retired,SUM([Deployed Strategic] + [Deployed Nonstrategic] + [Reserve...,Total Inventory
+Russia,0,1710,2670,1200,5580,5580
+United States,100,1670,1938,1336,5044,5044
+France,0,280,10,,,290
+China,0,24,476,,,500
+United Kingdom,0,120,105,,,225
+Israel,0,0,90,,,90
+Pakistan,0,0,170,,,170
+India,0,0,172,,,172
+North Korea,0,0,50,,,50
